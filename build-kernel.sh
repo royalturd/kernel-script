@@ -69,8 +69,8 @@ function variables() {
         AK_BRANCH=master
         TOOLCHAIN_REPO=https://github.com/mscalindt/aarch64-linux-android-4.9.git
         TOOLCHAIN_BRANCH=master
-        KERNEL_REPO=https://github.com/royalturd/kernel.git
-        KERNEL_BRANCH=master
+        KERNEL_REPO=https://github.com/royalturd/septic.git
+        KERNEL_BRANCH=pie
     }
 
     function clang() {
